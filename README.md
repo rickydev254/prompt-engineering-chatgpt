@@ -1,6 +1,14 @@
 # prompt-engineering-chatgpt
-Put the OpenAI Api key in .env file <br>
+Rename the copy.env file to .env and add the OpenAI Api key <br>
 OPENAI_API_KEY = "sk-"
+
+The guides are best followed in the order
+iterative
+summarizing
+inferring
+transforming
+expanding
+chatbot
 
 The notebooks above were written as I was learning <br>
 ChatGPT Prompt Enginering For Developer, a free short guide <br>
